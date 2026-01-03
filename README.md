@@ -3,6 +3,7 @@ Short-form video platforms evolve rapidly, making static recommendation models o
 This project builds an adaptive ML framework to classify video trend trajectories and detect concept drift over time, ensuring sustained relevance in fast-moving content ecosystems.
 
 The system combines momentum-based trend prediction with rolling validation and adaptive learning, simulating a production environment where user behavior continuously shifts.
+Data Source - https://www.kaggle.com/datasets/tarekmasryo/youtube-shorts-and-tiktok-trends-2025
 
 <p align="center">
   <img src="CD1.png" width="850">
@@ -13,7 +14,6 @@ The system combines momentum-based trend prediction with rolling validation and 
 
 ### [Data Preprocessing](Machine%20Learning%20Project%20Data%20Preprocessing.ipynb)
 
-- **Data Source -** https://www.kaggle.com/datasets/tarekmasryo/youtube-shorts-and-tiktok-trends-2025
 - Builds a unified, multi-platform dataset of 50K+ videos
 - Cleans, encodes, and normalizes engagement metrics across platforms and regions
 - Engineers high-signal momentum features (relative performance, velocity, growth rates)
