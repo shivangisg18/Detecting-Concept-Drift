@@ -6,6 +6,8 @@ The system combines momentum-based trend prediction with rolling validation and 
 
 <p align="center">
   <img src="CD1.png" width="850">
+</p
+<p align="center">
   <img src="CD2"  width="850">
 </p
 
