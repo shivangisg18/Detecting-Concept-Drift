@@ -13,7 +13,7 @@ The system combines momentum-based trend prediction with rolling validation and 
 
 ### [Data Preprocessing](Machine%20Learning%20Project%20Data%20Preprocessing.ipynb)
 
-- Data Source - https://www.kaggle.com/datasets/tarekmasryo/youtube-shorts-and-tiktok-trends-2025
+-Data Source - https://www.kaggle.com/datasets/tarekmasryo/youtube-shorts-and-tiktok-trends-2025
 - Builds a unified, multi-platform dataset of 50K+ videos
 - Cleans, encodes, and normalizes engagement metrics across platforms and regions
 - Engineers high-signal momentum features (relative performance, velocity, growth rates)
