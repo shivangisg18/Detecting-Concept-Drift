@@ -8,7 +8,7 @@ The system combines momentum-based trend prediction with rolling validation and 
   <img src="CD1.png" width="850">
 </p
 <p align="center">
-  <img src="CD2"  width="850">
+  <img src="CD2.png"  width="850">
 </p
 
 ### [Data Preprocessing](Machine%20Learning%20Project%20Data%20Preprocessing.ipynb)
