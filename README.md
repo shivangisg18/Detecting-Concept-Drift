@@ -4,7 +4,7 @@ This project builds an adaptive ML framework to classify video trend trajectorie
 
 The system combines momentum-based trend prediction with rolling validation and adaptive learning, simulating a production environment where user behavior continuously shifts.
 
-### [Data Preprocessing)[(Machine%20Learning%20Project%20Data%20Preprocessing.ipynb)
+### [Data Preprocessing](Machine%20Learning%20Project%20Data%20Preprocessing.ipynb)
 
 - Builds a unified, multi-platform dataset of 50K+ videos
 - Cleans, encodes, and normalizes engagement metrics across platforms and regions
